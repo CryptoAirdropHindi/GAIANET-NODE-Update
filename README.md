@@ -25,6 +25,9 @@ gaianet config --port 8047
 ```
 ## 5. Start Node
 ```
+gaianet init
+```
+```
 gaianet start
 ```
 ## 6. Now use this below command to get `node-info`
