@@ -4,7 +4,7 @@
 
 Use this command
 ```
-docker stop gaianet && docker rm gaianet
+rm -rf gaianet && docker stop gaianet && docker rm gaianet
 ```
 
 - Let's install the node update:
