@@ -33,7 +33,7 @@ gaianet start
 ```
 7. Now use this below command to get `node-info`
 ```
-docker exec -it gaianet /root/gaianet/bin/gaianet info
+gaianet info
 ```
 - Copy `Node ID` and `Device ID` and then write `exit` to detach from this container
 - Visit [Gaianet Site](https://www.gaianet.ai/setting/nodes) and then connect your wallet
