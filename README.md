@@ -1,4 +1,4 @@
-<h2 align=center>GAIANET-NODE-Update</h2>
+<h2 align=center>GAIANET-NODE-Update by CryptoAirdropHindi</h2>
 
 ## 1. First you have to stop the Node
 
