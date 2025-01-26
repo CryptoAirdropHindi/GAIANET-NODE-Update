@@ -23,10 +23,6 @@ source/root/bashrc
 ```
 gaianet config --port 8047
 ```
-5. used for fine-tuning or configuring the LLaMA-3.2-3b model.
-```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/refs/heads/main/llama-3.2-3b-instruct/config.json
-```
 6. Start Node
 ```
 gaianet start
