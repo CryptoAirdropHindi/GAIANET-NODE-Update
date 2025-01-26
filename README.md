@@ -1,6 +1,6 @@
 <h2 align=center>GAIANET-NODE-Update</h2>
 
-1. First you have to stop the Node
+## 1. First you have to stop the Node
 
 Use this command
 ```
@@ -9,25 +9,25 @@ docker stop gaianet && docker rm gaianet
 
 - Let's install the node update:
 - Default model
-2. Use the following command to download the latest version of the Gaia node:
+## 2. Use the following command to download the latest version of the Gaia node:
 ```
 curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
 ```
 - Download a Very Large LLM file
 
-3. Run the command printed on the terminal to set up the environment path, it is started with source.
+## 3. Run the command printed on the terminal to set up the environment path, it is started with source.
 ```
 source/root/bashrc
 ```
-4. Use this command to run the GaiaNet node on a different port.
+## 4. Use this command to run the GaiaNet node on a different port.
 ```
 gaianet config --port 8047
 ```
-6. Start Node
+## 5. Start Node
 ```
 gaianet start
 ```
-7. Now use this below command to get `node-info`
+## 6. Now use this below command to get `node-info`
 ```
 gaianet info
 ```
