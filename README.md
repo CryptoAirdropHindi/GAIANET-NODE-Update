@@ -39,6 +39,7 @@ gaianet info
 - Visit [Gaianet Site](https://www.gaianet.ai/setting/nodes) and then connect your wallet
 ![image](https://github.com/user-attachments/assets/146e5704-3877-4a9d-9b6f-4016489aaa19)
 ![image](https://github.com/user-attachments/assets/8aae9da0-475c-4811-bf81-78eec420f457)
+
 Now use this below command to get
 ```
 gaianet info
